@@ -1,0 +1,183 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "fractals_generator_liso",
+        "directory": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso",
+        "workspaceDir": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso",
+        "sources": [
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\src\\main\\scala-2.13",
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\src\\main\\scala",
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\src\\main\\java",
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\target\\scala-2.13\\src_managed\\main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2.jar",
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-swing_2.13\\2.1.1\\scala-swing_2.13-2.1.1.jar"
+        ],
+        "out": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\.bloop\\fractals_generator_liso",
+        "classesDir": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\.bloop\\fractals_generator_liso\\scala-2.13\\classes",
+        "resources": [
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\src\\main\\resources",
+            "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\target\\scala-2.13\\resource_managed\\main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.1",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.1\\scala-compiler-2.13.1.jar",
+                "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.1\\scala-reflect-2.13.1.jar",
+                "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+                "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\jline\\jline\\2.14.6\\jline-2.14.6.jar",
+                "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\fusesource\\jansi\\jansi\\1.12\\jansi-1.12.jar"
+            ],
+            "analysis": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso\\target\\streams\\compile\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.13.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files (x86)\\Java\\jre1.8.0_261",
+                "options": [
+                    "-Duser.dir=C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_liso"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Davina\\Documents\\ESIEE\\E5\\Scala_Projet\\Fractals_Generator\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-parser-combinators_2.13",
+                    "version": "1.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-parser-combinators_2.13",
+                            "path": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2.jar"
+                        },
+                        {
+                            "name": "scala-parser-combinators_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Davina\\Documents\\ESIEE\\E5\\Scala_Projet\\Fractals_Generator\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\1.1.2\\scala-parser-combinators_2.13-1.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-swing_2.13",
+                    "version": "2.1.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-swing_2.13",
+                            "path": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-swing_2.13\\2.1.1\\scala-swing_2.13-2.1.1.jar"
+                        },
+                        {
+                            "name": "scala-swing_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Davina\\Documents\\ESIEE\\E5\\Scala_Projet\\Fractals_Generator\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-swing_2.13\\2.1.1\\scala-swing_2.13-2.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.1",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\lisad\\OneDrive\\Documents\\E5\\SCALA\\Fractals_Generator_v2\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Davina\\Documents\\ESIEE\\E5\\Scala_Projet\\Fractals_Generator\\null\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

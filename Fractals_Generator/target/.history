@@ -1,0 +1,34 @@
+run
+rin
+run
+runrunrunnrunrunrun
+run
+rurun
+run
+rrun
+run
+ru 
+run
+run*
+run
+val panel = new Panel{  
+    override def paint(g:Graphics2D){
+       g.drawImage(image,0,0,null)
+    }
+    preferredSize = new Dimension(length, width) 
+    }
+    val frame = new MainFrame{
+      title = "Essai panel"
+      contents = panel
+    }
+run
+runrun
+run
+u
+run
+1
+run
+rn
+run
+u
+run
