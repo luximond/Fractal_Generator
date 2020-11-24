@@ -7,7 +7,12 @@
   
   To run the code : 
   -  you have to have metals and sbt installed ( Visual Code editor ) 
-  - then simply run with the sbt run command
+  - then simply run with the command : 
+  
+  ```bash
+sbt run
+```
+
   
   ### Feel free to choose between 3 options :
     1 -> Display the Mandelbrot fractal
